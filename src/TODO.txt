@@ -1,0 +1,6 @@
+* Add LEDs to show status (WLAN,WIFI,RESET,DATA): https://www.circuitbasics.com/programming-with-classes-and-objects-on-the-arduino/
+(ok)* Better Web Design (css, form design)
+* HTTPS Support
+* Interrupt Energie sparen
+* passiv ble scan
+(ok)* Send Mail
